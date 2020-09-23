@@ -1,4 +1,4 @@
-# BdgetNvidiaGaugan
+# BudgetNvidiaGaugan
 
 Done on Kaggle ( Ade20k-outdoors dataset )
 

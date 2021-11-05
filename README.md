@@ -1,4 +1,4 @@
-# BudgetNvidiaGaugan
+# SmallNvidiaGaugan
 
 Done on Kaggle ( Ade20k-outdoors dataset )
 
